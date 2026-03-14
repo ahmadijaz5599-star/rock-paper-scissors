@@ -1,0 +1,66 @@
+ body{
+                background-color: rgba(25,25,25);
+            }
+
+            .heading{
+                color: white;
+                font-family: Arial;
+                font-weight: 700;
+                font-size: 40px;
+            }
+
+            .move-button{
+                background-color: rgba(25,25,25);
+                margin-right: 10px;
+                height: 120px;
+                width: 120px;
+                cursor: pointer;
+                border: white solid;
+                border-radius: 60px;
+                transition: 0.2s;
+            }
+
+            .move-icon{
+                height: 50px;
+            }
+
+            .js-result{
+                font-family: Arial;
+                font-size: 25px;
+                font-weight: bold;
+                color: white;
+            }
+
+            .js-moves{
+                font-family: Arial;
+                color: white;
+            }
+
+            .js-score{
+                margin-top: 40px;
+                font-family: Arial;
+                color: white;
+            }
+
+            .reset-button,.auto-play-button{
+                height: 40px;
+                font-size: 15px;
+                border: none;
+                cursor: pointer;
+                padding: 8px 15px;
+            }
+
+            .script{
+                background-color: rgb(46, 46, 46);
+                font-family: Arial;
+                color: white;
+                margin-right: 30.6cm;
+                padding: 4px;
+            }
+
+            .confirmation-button-yes,.confirmation-button-no{
+                padding: 4px 10px;
+                font-family: Arial;
+                font-size: 15px;
+                cursor: pointer;
+            }
